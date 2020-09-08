@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu{
+    background-color: #060E40;
+    margin: 30px;
+}
+
+#menuli li{
+    display: inline-block;
+    padding: 32px;
+    color:  white;
+    text-decoration: none;   
+}
+
+#menuli ul{
+    list-style: none;
+}
+
+#menuli a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 14px;
+}
+.corpo{
+    background-color:#060E40; 
+}
+.botao{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+	padding: 10px;
+    background-color: #FF6D70;
+    color: white;
+    border-radius: 10px;
+}
+
+.primeira {
+    background-color: white;
+    border-radius: 20px;
+    clear: both;
+    margin: 10px; 
+
+}
+
+.texto{
+    color: #2C568A; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    float: left;
+    margin-left: 250px;
+}
+
+.umaimag{
+    margin:50px;
+}
+
+.cash{
+    background-color: #060E40;
+    margin-left:50px;
+}
+
+.textao{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    float: left;
+    margin-left: 220px;
+}
+
+.imagem{
+    float: right;
+    margin-right: 220px;
+}
+
+.terceira {
+    background-color: #2C568A;
+    border-radius: 20px;
+    clear: both;
+    margin: 10px; 
+}
+
+.textodois{
+    color: white; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    float: right;
+    margin-right: 250px;
+}
+
+.afigura{
+    margin-left: 220px;
+}
+
+
+
+.rodape{
+    color: #FF6D70; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+}
